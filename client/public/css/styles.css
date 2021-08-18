@@ -1,0 +1,15 @@
+.square{
+    border-radius: 0px;
+}
+
+.jumbotron{
+    background-image: linear-gradient(to right, #007bff, #000);
+    color: white;
+    min-height: 100px;
+    position: relative;
+    padding-top: 10px;
+}
+
+.position-relative{
+    position: relative;
+}
